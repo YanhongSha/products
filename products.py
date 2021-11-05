@@ -11,4 +11,11 @@ while True:
 print(products)
 
 
+# Print the List
+
+for p in products:
+	print(p[0],'price is', p[1], '.')      # 打印的是整个清单
+
+
+
 
